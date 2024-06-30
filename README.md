@@ -27,8 +27,46 @@
   <a href="https://www.instagram.com/lunarium_xln" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="https://discordapp.com/invite/4nFZeJr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
- 
-  
+<h2 class="heading-left">XLN Rewards Policy</h2>
+
+
+<div classe="content">
+<div class="col-sm-0">
+<center><responsive>
+<table class="paleBlueRows" style="width:100%">
+<thead>
+<tr>
+<th>Block Nº</th>
+<th>Rewards</th>
+<th>Collateral</th>
+<th>POS</th>
+<th>MN</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+</tfoot>
+<tbody>
+<tr>
+<td>2 - 14.400</td><td>1</td><td>250.000</td><td>0.25</td><td>0.75</td></tr>
+<tr>
+<td><mark>14.401 - 340.000</mark> <br></td><td>12</td><td>250.000</td><td>3</td><td>9</td></tr>
+<tr>
+<td>340.001 - 865.600<br></td><td>12</td><td>300.000</td><td>3</td><td>9</td></tr>
+<tr>
+<td>865.601 - 1.391.200<br></td><td>12</td><td>350.000</td><td>3</td><td>9</td></tr>
+<tr>
+<td>1.391.201 - 1.916.800<br></td><td>12</td><td>400.000</td><td>3</td><td>9</td></tr>
+<td>1.916.801 - 2.442.400<br></td><td>12</td><td>450.000</td><td>3</td><td>9</td></tr>
+<td>2.442.401 - 2.968.000<br></td><td>12</td><td>500.000</td><td>3</td><td>9</td></tr>
+<tr>
+<tr>
+</tbody>
+</tr>
+</table></responsive>
+</center>
+<br>
+</div>             
   
  
  
