@@ -50,7 +50,7 @@
 <tr>
 <td>2 - 14.400</td><td>1</td><td>250.000</td><td>0.25</td><td>0.75</td></tr>
 <tr>
-<td><14.401 - 340.000 <br></td><td>12</td><td>250.000</td><td>3</td><td>9</td></tr>
+<td>14.401 - 340.000 <br></td><td>12</td><td>250.000</td><td>3</td><td>9</td></tr>
 <tr>
 <td><mark>340.001 - 865.600</mark><br></td><td>12</td><td>300.000</td><td>3</td><td>9</td></tr>
 <tr>
